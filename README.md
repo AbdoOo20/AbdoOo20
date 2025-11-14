@@ -11,40 +11,20 @@
       <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/projects.png" style="height:34px; object-fit:contain;"/></a>
   </p>
 
-  ### 📤 Connect & Competitive Programming
+  ### Connect With Me 
   <p align="left">
-    <a href="mailto:7hemeda@gmail.com">
-      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
-    <a href="https://www.linkedin.com/in/a-hemeda">
-      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-    <a href="https://www.whatsapp.com/channel/0029Vb3QWNLG8l5OPthU963O">
-      <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="50"/></a> &nbsp;
-    <a href="https://www.youtube.com/@A-Hemeda">
-      <img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" height="50"/></a> &nbsp;
-    <a href="https://stackoverflow.com/users/28317461/ahmed-hemeda">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/2048px-Stack_Overflow_icon.svg.png" height="50"/></a> &nbsp;
-    <a href="https://codeforces.com/profile/11Hemeda">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-logo-icon-svg-download-png-2944796.png" height="50"/></a> &nbsp;
-    <a href="https://leetcode.com/u/A-Hemeda/">
-      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" height="50"/></a>
+    <a href="mailto:abdelrahman.emadeldin.ragab@gmail.com">
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/gmail.png" height="50"/></a> &nbsp;
+    <a href="https://www.linkedin.com/in/abdoemad/">
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/linkedin.png" height="50"/></a> &nbsp;
+    <a href="https://wa.me/0201018754602">
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/whatsapp.png" height="50"/></a> &nbsp;
+    <a href="https://t.me/Abdo_Emad_20">
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/telegram.png" height="50"/></a>
   </p>
 
-### 🛠️ Top Technical Skills & Tools
+### Technical Skills & Tools
 
-  <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp,cs,dotnet,docker,sqlserver,dapper,redis,html,css,js,postman,swagger,git&perline=7" style="height:113px;"/>
-  </p>
-
-### 🏆 GitHub Trophies
-  <p align="left">
-  
-![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=A-Hemeda&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
-
-<br>
-
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/>
-  </p>
-
-![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,angular,flutter,dart,typescript,html,css,js,sqlserver,firebase,git,postman,swagger,cpp&perline=7" style="height:113px;"/>
+</p>

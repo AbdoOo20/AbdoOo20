@@ -1,31 +1,32 @@
-  <p align="center">
-    <a href="https://gh-most-followed.pages.dev/egypt">
-      <img src="https://img.shields.io/badge/13ᵗʰ Most Followed User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://committers.top/egypt">
-      <img src="https://img.shields.io/badge/10ᵗʰ Most Active User 🇪🇬-272730?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
-  </p>
+<h1 align="center">Hi 👋, I'm Abdelrahman Emad</h1>
 
-<h1 align="center">Hi, I'm Abdelrahman Emad</h1>
+<h2 align="center">Software Engineer | .NET Developer | Flutter Developer | Angular Developer</h2>
 
-<h2 align="center">Software Engineer | .NET Developer</h2>
 <br>
 
-  <p align="center">
-    <a href="https://www.google.com.eg/search?q=Ahmed+Hemeda"> <!-- Google Me -->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
-  </p>
+<p>
+<a href="https://drive.google.com/file/d/1ffCKfg0chfX8-FIdms_BRzY7hkyBRm9L/view?usp=sharing" target="_blank" style=" display:inline-flex; align-items:center; background:#0A8F39; color:white; padding:8px 14px; border-radius:6px; font-size:28px; font-weight:600; text-decoration:none; gap:8px;"><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/drive.png" style="width:40px; height:40px; object-fit:contain;" /> CV </a>
+  
+  &nbsp;
+  
+  <a href="https://a-hemeda.github.io/Portfolio" target="_blank"
+     style="
+        display:inline-flex;
+        align-items:center;
+        background:#0A4FFF;
+        color:white;
+        padding:8px 14px;
+        border-radius:6px;
+        font-size:16px;
+        font-weight:600;
+        text-decoration:none;
+        gap:8px;">
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/code.png"
+           style="width:20px; height:20px; object-fit:contain; filter:brightness(0) invert(1);" />
+      Portfolio
+  </a>
 
-  <p>
-    <a href="https://www.google.com.eg/search?q=A-Hemeda"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=a-hemeda&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
-  </p>
-
-  <p>
-    <a href="https://drive.google.com/file/d/1W272WvN9JqHiff2Bvp5UbXC-m9BobH16/view?usp=drivesdk">
-      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://a-hemeda.github.io/Portfolio">
-      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:34px; object-fit:contain;"/></a>
-  </p>
+</p>
 
   ### 📤 Connect & Competitive Programming
   <p align="left">

@@ -4,29 +4,12 @@
 
 <br>
 
-<p>
-<a href="https://drive.google.com/file/d/1ffCKfg0chfX8-FIdms_BRzY7hkyBRm9L/view?usp=sharing" target="_blank" style=" display:inline-flex; align-items:center; background:#0A8F39; color:white; padding:8px 14px; border-radius:6px; font-size:28px; font-weight:600; text-decoration:none; gap:8px;"><img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/drive.png" style="width:40px; height:40px; object-fit:contain;" /> CV </a>
-  
-  &nbsp;
-  
-  <a href="https://a-hemeda.github.io/Portfolio" target="_blank"
-     style="
-        display:inline-flex;
-        align-items:center;
-        background:#0A4FFF;
-        color:white;
-        padding:8px 14px;
-        border-radius:6px;
-        font-size:16px;
-        font-weight:600;
-        text-decoration:none;
-        gap:8px;">
-      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/code.png"
-           style="width:20px; height:20px; object-fit:contain; filter:brightness(0) invert(1);" />
-      Portfolio
-  </a>
-
-</p>
+  <p>
+    <a href="https://drive.google.com/file/d/1ffCKfg0chfX8-FIdms_BRzY7hkyBRm9L/view?usp=sharing">
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/cv.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://abdooo20.github.io/AbdoEmad.github.io/">
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/proto.png" style="height:34px; object-fit:contain;"/></a>
+  </p>
 
   ### 📤 Connect & Competitive Programming
   <p align="left">

@@ -8,7 +8,7 @@
     <a href="https://drive.google.com/file/d/1ffCKfg0chfX8-FIdms_BRzY7hkyBRm9L/view?usp=sharing">
       <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/cv.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
     <a href="https://abdooo20.github.io/AbdoEmad.github.io/">
-      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/proto.png" style="height:34px; object-fit:contain;"/></a>
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/projects.png" style="height:34px; object-fit:contain;"/></a>
   </p>
 
   ### 📤 Connect & Competitive Programming

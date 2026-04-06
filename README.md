@@ -7,7 +7,7 @@
 <img  
   align="right" 
   alt="Coding" 
-  width="400" 
+  width="300" 
   src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/developer5.png"> 
 
   <p>

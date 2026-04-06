@@ -4,10 +4,10 @@
 
 <br>
 
-<img  align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/developer3.png"> 
+<img  align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/developer4.png"> 
 
   <p>
-    <a href="https://drive.google.com/file/d/1ffCKfg0chfX8-FIdms_BRzY7hkyBRm9L/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1S-KMtZrIZLFGKXoRMa9tPnAT6JNg6TNS/view?usp=sharing">
       <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/cv.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
     <a href="https://abdooo20.github.io/AbdoEmad.github.io/">
       <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/pro.png" style="height:34px; object-fit:contain;"/></a>
@@ -26,7 +26,7 @@
   </p>
 
 ### Technical Skills & Tools
-
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,angular,flutter,dart,typescript,html,css,js,sqlserver,firebase,git,postman,swagger,cpp&perline=7" style="height:113px;"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,angular,rxjs,redux,jest,flutter,dart,typescript,html,css,js,sqlserver,postgres,mongodb,redis,firebase,rabbitmq,docker,nginx,git,postman,swagger,cpp&perline=11" style="height:120px;"/>
 </p>
+

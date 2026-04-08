@@ -12,9 +12,9 @@
 
   <p>
     <a href="https://drive.google.com/file/d/1S-KMtZrIZLFGKXoRMa9tPnAT6JNg6TNS/view?usp=sharing">
-      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/cv.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/cv1.png" style="height:34px; object-fit:contain;"/></a> &nbsp;
     <a href="https://abdooo20.github.io/AbdoEmad.github.io/">
-      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/pro.png" style="height:34px; object-fit:contain;"/></a>
+      <img src="https://raw.githubusercontent.com/AbdoOo20/Images/refs/heads/main/profile/pro1.png" style="height:34px; object-fit:contain;"/></a>
   </p>
 
   ### Connect With Me 
